@@ -1,0 +1,8 @@
+{
+  "appId": "com.pribadi.suratotomatis",
+  "appName": "Surat Otomatis",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
